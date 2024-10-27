@@ -42,3 +42,30 @@ main{
     background-color: #7A05E8;
     border: solid #ffff 1px  ;
 }
+h2{
+    font-size: xx-large;
+    background-color: #391956; /* Cor de fundo do h2 */
+    margin: 20px 0; /* Margem em cima e embaixo */
+    text-align: center; /* Centraliza o texto do h2 */
+    color: #ffff; /* Cor do texto */
+    display: inline-block; /* Faz com que o h2 tenha apenas a largura do conteúdo */
+    padding: 10px; /* Adiciona um pouco de preenchimento ao redor do texto */
+    border-radius: 25px;
+}
+
+.resultado{
+    margin: 20px 30%;
+    background-color: #ffff;
+    color: #7A05E8;
+    font-size: larger;
+    padding: 10px;
+    border: solid #7A05E8 1px;
+    border-radius: 25px;
+}
+.resultado:hover{
+    font-size: x-large;
+    transition: 0.70s ;
+    color: #ffff;
+    background-color: #7A05E8;
+    border: solid #ffff 1px  ;
+}
