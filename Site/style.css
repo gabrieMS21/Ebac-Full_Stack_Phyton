@@ -1,0 +1,26 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: antiquewhite;
+    text-decoration: wavy black;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #7A05E8;
+    justify-content: center;
+    
+}
+main{
+    border: solid #4444 2px;
+    box-shadow: #4444 40px 4px 40px ;
+    background-color: #3333;
+    width: 90%;
+    text-align: center;
+}
+#titulo-1 h1{
+    background-color: #4444;
+    font-size: 40px;
+}
