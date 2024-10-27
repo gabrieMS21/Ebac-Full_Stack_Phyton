@@ -24,3 +24,21 @@ main{
     background-color: #4444;
     font-size: 40px;
 }
+.texto-01{
+    margin: 20px 120px;
+}
+.linkCurso{
+    background-color: #ffff;
+    color: #7A05E8;
+    font-size: larger;
+    padding: 10px;
+    border: solid #7A05E8 1px;
+    border-radius: 25px;
+}
+.linkCurso:hover{
+    font-size: x-large;
+    transition: 0.70s ;
+    color: #ffff;
+    background-color: #7A05E8;
+    border: solid #ffff 1px  ;
+}
