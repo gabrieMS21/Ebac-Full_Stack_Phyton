@@ -43,13 +43,14 @@ main{
     border: solid #ffff 1px  ;
 }
 h2{
+    border: solid #ffff 0.70px;
     font-size: xx-large;
-    background-color: #391956; /* Cor de fundo do h2 */
-    margin: 20px 0; /* Margem em cima e embaixo */
-    text-align: center; /* Centraliza o texto do h2 */
-    color: #ffff; /* Cor do texto */
-    display: inline-block; /* Faz com que o h2 tenha apenas a largura do conteúdo */
-    padding: 10px; /* Adiciona um pouco de preenchimento ao redor do texto */
+    background-color: #391956;
+    margin: 20px 0;
+    text-align: center; 
+    color: #ffff;
+    display: inline-block;
+    padding: 10px;
     border-radius: 25px;
 }
 
