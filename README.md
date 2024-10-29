@@ -1,4 +1,4 @@
-# Ebac-Full_Stack_Phyton
- **Repositório criado para manter todos os projetos e exercicios do curso da ebac full stack phyton.**
- 
- **https://gabriems21.github.io/Ebac-Full_Stack_Phyton/**
+#testes#
+Repostório criado para realizar testes de html - css e JavaScript
+realizo estudos de aplicações, mudanças de página animações e etc..
+
